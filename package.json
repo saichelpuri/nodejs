@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saichelpuri/nodejs.git"
+  },
+  "author": "sainarayana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saichelpuri/nodejs/issues"
+  },
+  "homepage": "https://github.com/saichelpuri/nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
